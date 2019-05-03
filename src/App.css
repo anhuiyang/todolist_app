@@ -1,19 +1,44 @@
-.App {
-  text-align: center;
-}
+
 
 * {
 box-sizing: border-box;
-padding: 0;
 align-content: center
 }
 
+header{
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.5;
+  line-height: 1.2
 }
 
-a {
-  color: black;
-  text-decoration: none;
+.todoInput {
+  flex: 10;
+  padding: 5px
+}
+.deleteBtn {
+  background: grey;
+  color: white;
+  border: none;
+  padding: 3.5px 7.5px;
+  border-radius: 75%;
+  cursor: pointer;
+  float: right
+}
+.container {
+  padding: 35px 300px;
+}
+
+.btn{
+  /* display: inline-block; */
+  border: none;
+  background: grey;
+  color: #ffffff;
+  cursor: pointer;
+  flex: 2;
+  height: 27px
 }
