@@ -23,9 +23,8 @@ Forked this project to make pull request
 
 Tech | Description
 ------------- | -------------
-[Javascript](https://www.javascript.com) | Main backend language
-[React.js](https://expressjs.com) | Node.js web application framework
-[MongoDB](https://www.mongodb.com) | a NoSQL database
+[Javascript](https://www.javascript.com) | Main frontend language
+[React.js](https://reactjs.org) | A JavaScript library for building user interfaces
 
 ## Screenshot
 ![index](https://github.com/anhuiyang/todolist_app/blob/master/img/Screenshot%202019-05-03%20at%205.21.12%20pm.png?raw=true)
