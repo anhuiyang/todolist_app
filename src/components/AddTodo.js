@@ -9,9 +9,9 @@ class AddTodo extends React.Component {
         }
     }
 
-    onChange = (e) => this.setState({ [e.target.name]: e.target.value});
+    onChange=(e) => this.setState({ [e.target.name]: e.target.value});
     
-    onSubmit = (e) => {
+    onSubmit=(e) => {
         e.preventDefault();
         this.props.addTodo(this.state.title)
         this.setState({title: ''})

@@ -33,7 +33,7 @@ class App extends React.Component {
     )
   }
 
-  markComplete = (_id)=>{
+  markComplete=(_id)=>{
     this.setState({todos: this.state.todos.map(todo=>{
       if(todo._id===_id){
         todo.completed = !todo.completed
