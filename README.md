@@ -27,6 +27,6 @@ Tech | Description
 [React.js](https://reactjs.org) | A JavaScript library for building user interfaces
 
 ## Screenshot
-![index](https://github.com/anhuiyang/todolist_app/blob/master/img/Screenshot%202019-05-03%20at%205.21.12%20pm.png?raw=true)
+![index](https://github.com/anhuiyang/todolist_app/blob/master/img/Screenshot%202019-05-04%20at%202.06.59%20pm.png?raw=true)
 
 
