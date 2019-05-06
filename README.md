@@ -25,6 +25,7 @@ Tech | Description
 ------------- | -------------
 [Javascript](https://www.javascript.com) | Main frontend language
 [React.js](https://reactjs.org) | A JavaScript library for building user interfaces
+[Enzyme](https://airbnb.io/enzyme/) |  JavaScript Testing utility for React
 
 ## Screenshot
 ![index](https://github.com/anhuiyang/todolist_app/blob/master/img/Screenshot%202019-05-04%20at%202.06.59%20pm.png?raw=true)
