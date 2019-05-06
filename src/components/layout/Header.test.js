@@ -8,7 +8,7 @@ import Header from './Header'
 describe('Header', ()=>{
     it('display h1 ToDoList', ()=>{
         const wrapper = Enzyme.shallow(<Header />)
-        console.dir(wrapper.find('h1'))
-        expect(wrapper.find('h1').text()).toEqual('ToDoList')
+        // expect(wrapper.find('h1').text()).toEqual('ToDoList')
+        expect(wrapper.contains('ToDoList')).toEqual(true)
     })
 })
